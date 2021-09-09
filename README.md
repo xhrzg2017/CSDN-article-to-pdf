@@ -1,6 +1,7 @@
 # CSDN-article-to-pdf
 下载CSDN 文章变成pdf文件
-调用如下软件完成<br>
+
+调用如下软件完成
 wkhtmltopdf https://github.com/wkhtmltopdf/wkhtmltopdf
 
 #代码思路
